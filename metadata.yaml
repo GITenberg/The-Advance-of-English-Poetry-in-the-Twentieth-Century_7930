@@ -1,0 +1,31 @@
+_repo: The-Advance-of-English-Poetry-in-the-Twentieth-Century_7930
+alternative_title: The Advance of English Poetry in the 20th Century
+creator:
+  author:
+    agent_name: Phelps, William Lyon
+    birthdate: 1865
+    deathdate: 1943
+    gutenberg_agent_id: '1907'
+    url: http://www.gutenberg.org/2009/agents/1907
+    wikipedia: http://en.wikipedia.org/wiki/William_Lyon_Phelps
+description: ''
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7930'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry -- 20th century -- History and criticism'
+- !lcc 'PS'
+- !lcsh 'American poetry -- 20th century -- History and criticism'
+- !lcc 'PR'
+tableOfContents: 'Some contrasts: Henley, Thompson, Hardy, Kipling -- Phillips, Watson,
+  Noyes, Housman -- John Masefield -- Gibson and Hodgson -- Brooke, Flecker, De La
+  Mare, and others -- The Irish poets -- American veterans and forerunners -- Vachel
+  Lindsay and Robert Frost -- Amy Lowell, Anna Branch, Edgar Lee Masters, Louis Untermeyer
+  -- Sara Teasdale, Alan Seeger, and others -- A group of Yale poets.'
+title: The Advance of English Poetry in the Twentieth Century
+url: http://www.gutenberg.org/ebooks/7930
