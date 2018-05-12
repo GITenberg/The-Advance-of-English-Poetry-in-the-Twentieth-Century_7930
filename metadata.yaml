@@ -1,5 +1,9 @@
 _repo: The-Advance-of-English-Poetry-in-the-Twentieth-Century_7930
+_version: 0.1.0
 alternative_title: The Advance of English Poetry in the 20th Century
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Phelps, William Lyon
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1907
     wikipedia: http://en.wikipedia.org/wiki/William_Lyon_Phelps
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7930#The-Advance-of-English-Poetry-in-the-Twentieth-Century
 gutenberg_issued: '2005-04-01'
 gutenberg_type: Text
 identifiers:
